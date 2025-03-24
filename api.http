@@ -2,14 +2,8 @@ POST HTTP://localhost:8000/bands/
 Content-Type: application/json
 
 {
-    "name": "Boards of Canada",
-    "genre": "Electronic",
-    "albums":[
-        {
-            "title": "Tomorrow`s Harvest",
-            "released_date": "2013-01-01"
-        }
-    ]
+    "name": "Test1",
+    "genre": "electronic"
 }
 
 ###
