@@ -2,9 +2,9 @@ POST HTTP://localhost:8000/bands/
 Content-Type: application/json
 
 {
-    "name": "Test1",
-    "genre": "electronic"
+    "name": "Test2",
+    "genre": "Electronic"
 }
 
 ###
-GET HTTP://localhost:8000/bands?genre=electronic
+GET HTTP://localhost:8000/bands
